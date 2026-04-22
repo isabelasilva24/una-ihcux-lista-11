@@ -2,7 +2,7 @@
 
 | Campo       | Informação                                                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Integrantes | Samuel Rodrigues Sales<br>Guilherme Ernani Oliveira Alonso<br>Gabriella Letícia Oliveira das Chagas<br>Ludmilla dos Santos S. Francisco<br>Isabela da Silva Freitas |
+| Integrantes | Samuel Rodrigues Sales<br>Ludmilla dos Santos S. Francisco<br>Isabela da Silva Freitas |
 | Curso       | Análise e Desenvolvimento de Sistemas                                                                                                                               |
 | Disciplina  | Interação Humano Computador e UX                                                                                                                                    |
 | Professor   | Daniel Henrique Matos de Paiva                                                                                                                                      |
