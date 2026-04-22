@@ -18,23 +18,33 @@ O **ReCiclo** permite que usuários doem e encontrem objetos de forma simples e 
 
 ## Descrição das Telas
 
-**Tela Home / Feed:**
-Exibe os itens disponíveis próximos ao usuário, com imagem, nome e distância. Permite navegar e selecionar itens.
+### 1. Tela Home / Feed
 
-**Tela de Filtros:**
-Permite filtrar itens por categoria, distância e estado de conservação, ajudando o usuário a encontrar o que precisa.
+Exibe os itens disponíveis próximos ao usuário, com imagem, nome do item, categoria e distância. É a tela principal para navegação e descoberta de doações.
 
-**Tela de Detalhes do Item:**
-Apresenta informações completas do item, como descrição, fotos e dados do doador, com opção de iniciar contato.
+### 2. Tela de Filtros
 
-**Tela de Cadastro de Item:**
-Permite ao usuário cadastrar um novo item para doação, preenchendo informações básicas e adicionando imagem.
+Permite ao usuário refinar sua busca utilizando filtros como categoria, distância e estado de conservação do item, facilitando encontrar objetos mais relevantes.
 
-**Tela de Chat:**
-Permite a comunicação entre doador e interessado para combinar a retirada do item.
+### 3. Tela de Detalhes do Item
 
-**Tela de Perfil:**
-Mostra dados do usuário, histórico e conquistas (Selos Eco).
+Mostra informações completas sobre o item selecionado, como descrição detalhada, fotos adicionais e dados do doador. Também possui a opção de iniciar contato.
+
+### 4. Tela de Cadastro de Novo Item
+
+Permite ao doador cadastrar um novo objeto para doação, preenchendo campos como nome, descrição, categoria, estado de conservação e envio de foto.
+
+### 5. Tela de Chat / Mensagens
+
+Permite a conversa entre doador e interessado para combinar retirada, horário, local e demais informações importantes sobre a entrega.
+
+### 6. Tela de Perfil do Usuário
+
+Apresenta os dados do usuário, seu histórico dentro do aplicativo e as conquistas obtidas, como os Selos Eco.
+
+### 7. Tela de Impactômetro
+
+Mostra o impacto ambiental positivo gerado pelo usuário, como quantidade de objetos reaproveitados e redução de descarte no meio ambiente.
 
 ---
 
@@ -42,11 +52,11 @@ Mostra dados do usuário, histórico e conquistas (Selos Eco).
 
 1. O usuário abre o aplicativo e acessa a tela inicial (Feed).
 2. Visualiza os itens disponíveis próximos à sua localização.
-3. (Opcional) Utiliza filtros para refinar a busca.
+3. Utiliza a tela de filtros para encontrar um item específico.
 4. Seleciona um item e acessa a tela de detalhes.
-5. Inicia uma conversa com o doador através do chat.
-6. Combina a retirada do item.
-7. Conclui a doação/interesse com sucesso.
-8. Recebe um Selo Eco como recompensa pela ação realizada.
+5. Inicia uma conversa com o doador através da tela de chat.
+6. Combina a retirada do objeto.
+7. Após a conclusão da doação, recebe um Selo Eco como recompensa.
+8. Pode acompanhar seu impacto positivo na tela de Impactômetro.
 
 ---
