@@ -1,12 +1,12 @@
 # ReCiclo - Protótipo de Baixa Fidelidade (IHC & UX)
 
-| Campo       | Informação                                                                                                                                                          |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Integrantes | Samuel Rodrigues Sales<br>Ludmilla dos Santos S. Francisco<br>Isabela da Silva Freitas |
-| Curso       | Análise e Desenvolvimento de Sistemas                                                                                                                               |
-| Disciplina  | Interação Humano Computador e UX                                                                                                                                    |
-| Professor   | Daniel Henrique Matos de Paiva                                                                                                                                      |
-| Instituição | Centro Universitário UNA                                                                                                                                            |
+| Campo       | Informação                                                                                                                 |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Integrantes | Samuel Rodrigues Sales<br>Guilherme Ernani Oliveira Alonso<br>Ludmilla dos Santos S. Francisco<br>Isabela da Silva Freitas |
+| Curso       | Análise e Desenvolvimento de Sistemas                                                                                      |
+| Disciplina  | Interação Humano Computador e UX                                                                                           |
+| Professor   | Daniel Henrique Matos de Paiva                                                                                             |
+| Instituição | Centro Universitário UNA                                                                                                   |
 
 ---
 
